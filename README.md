@@ -3,7 +3,7 @@
 This repository contains the VProfile Java Spring MVC web application packaged as a WAR and designed to run behind Tomcat. It is intended to be built and deployed as part of a GitOps workflow using Maven, Docker, Amazon ECR, and a separate Helm repository.
 
 ## Overview
-
+###
 - Java 21
 - Maven build
 - Spring MVC / Spring Security application
